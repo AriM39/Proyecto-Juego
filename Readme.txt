@@ -1,2 +1,5 @@
+Descripción del Juego:
 Integrantes:
-Cabrejos Mimbela Arianna Maily
+*Cabrejos Mimbela Arianna Maily
+*
+*
